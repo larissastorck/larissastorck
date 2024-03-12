@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **web development**
 
 - 📫 How to reach me **larissastorck@hotmail.com**
 
